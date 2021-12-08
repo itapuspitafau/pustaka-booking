@@ -62,6 +62,7 @@
             <form action="<?= base_url('buku/kategori'); ?>" method="post"> 
                 <div class="modal-body"> 
                     <div class="form-group"> 
+                        
 <input type="text" name="kategori" id ="kategori" placeholder="Masukan Nama Kategori" class="form-control form-control-user"> 
 
 
